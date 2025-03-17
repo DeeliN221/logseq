@@ -26,7 +26,7 @@ public class MainActivity extends BridgeActivity {
                     }
                 });
             }
-        }, 5000);
+        }, 500);
 
     }
 
